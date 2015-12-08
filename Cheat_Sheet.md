@@ -23,5 +23,5 @@ vi ./.git/config
    To
      url = https://sphughes@github.com/sphughes/github_wiki.git
 
-git push
+git push origin master
  
