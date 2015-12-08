@@ -9,12 +9,13 @@ git status
 
 
 CREATE .GITIGNORE  
-
+```
 vi .gitignore  
    *~  .... etc  
 git add .gitignore  
 git commit -m "Added .gitignore"  
 git status -s  
+```
 
 
 EDIT .GIT/CONFIG  
