@@ -8,7 +8,7 @@ git commit -m 'Added Cheat Sheet'
 git status  
 
 
-CREATE .GITIGNORE  
+CREATE .GITIGNORE
 ```
 vi .gitignore  
    *~  .... etc  
